@@ -54,6 +54,10 @@ src/main.c        field table, layout, rendering
 Makefile
 ```
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 # cfetch
@@ -110,3 +114,7 @@ src/info.c        сборщики и collect_all()
 src/main.c        таблица полей, раскладка, вывод
 Makefile
 ```
+
+## Лицензия
+
+MIT. Подробности в [LICENSE](LICENSE).
